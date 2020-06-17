@@ -1,3 +1,4 @@
-Editing some text on the MASTER BRANCH.
+My name is Samuel. Hello.
 
-To be continued later...
+
+And this is the second line which will remain identical.
